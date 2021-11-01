@@ -12,6 +12,9 @@ Backend frameworks:
 Node.js, Express.js, PostgreSQL, Passport.js.
 Asp.net, .Net Core, Entity Framework, Microsoft SQL Server.
 
+Testing frameworks:
+Mocha, Chai
+
 Miscellaneous:
 GitHub actions, Figma and Adobe XD, Storybook, Docker.
 
