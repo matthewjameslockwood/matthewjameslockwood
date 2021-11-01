@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Matt 👋
 
-<!--
-**matthewjameslockwood/matthewjameslockwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a web-based contractor located in London, UK 🇬🇧.
 
-Here are some ideas to get you started:
+Languages: 
+Typescript, Javascript, C#, Html, CSS, SCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend frameworks: 
+Angular 10+, RxJs, Ngrx, Nextjs, React, Styled-Components.
+
+Backend frameworks: 
+Node.js, Express.js, PostgreSQL, Passport.js
+Asp.net, .Net Core, Entity Framework, Microsoft SQL Server
+
+Miscellaneous:
+GitHub actions, Figma and adobe xd, storybook.js, Docker,
+
