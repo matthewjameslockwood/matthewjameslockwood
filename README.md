@@ -8,13 +8,13 @@ Typescript, Javascript, C#, Html, CSS, SCSS.
 Frontend frameworks: 
 Angular 10+, RxJs, Ngrx, Nextjs, React, Styled-Components.
 
-Backend frameworks: 
+Backend frameworks/applications: 
 Node.js, Express.js, PostgreSQL, Passport.js.
 Asp.net, .Net Core, Entity Framework, Microsoft SQL Server.
 
 Testing frameworks:
-Mocha, Chai
+Mocha, Chai, NUnit, XUnit.
 
 Miscellaneous:
-GitHub actions, Figma and Adobe XD, Storybook, Docker.
+GitHub actions, Figma and Adobe XD, Storybook, Docker, Azure devops.
 
