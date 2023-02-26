@@ -6,10 +6,10 @@ Languages:
 Typescript, Javascript, C#, Html, CSS, SCSS.
 
 Frontend frameworks: 
-Angular 10+, RxJs, Ngrx, Nextjs, React, Styled-Components.
+Angular 10+, RxJs, Ngrx, Nextjs, React, Styled-Components, Tailwindcss.
 
 Backend frameworks/applications: 
-Node.js, Express.js, PostgreSQL, Passport.js.
+Node.js, Express.js, PostgreSQL, Passport.js, MongoDB, Mongoose.
 Asp.net, .Net Core, Entity Framework, Microsoft SQL Server.
 
 Testing frameworks:
